@@ -5,7 +5,11 @@ body{background:#00b3e6;
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 
+<<<<<<< HEAD
 div{width:700px; margin:auto; font-family:"Helvetica Neue"; background:white; padding:30px;
+=======
+div{width:700px; margin:auto; font-family:Helvetica neue; background:white; padding:30px;
+>>>>>>> 833f6bcafaf710751254e581a0b594b8ea046f93
   /* Your code here! */
 }
 
